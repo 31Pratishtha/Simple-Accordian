@@ -1,4 +1,4 @@
-# Simple-Accordian
+# Simple-Accordion
 Mini Project using HTML, CSS and JavaScript. Must Knows about Web3.0 accordians.
 
 See the website here:
